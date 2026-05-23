@@ -115,6 +115,7 @@ main{
 .resultados button:hover{
     background: var(--green-hover);
     cursor: pointer;
+    transition: .4s;
 }
 
 .gorjeta #outra{
